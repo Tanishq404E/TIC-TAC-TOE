@@ -1,4 +1,4 @@
-grid=[[0,0,0],[0,0,0],[0,0,0]]
+grid=[[' ',' ',' '],[' ',' ',' '],[' ',' ',' ']]
 #creating a attractive menu for end-users
 def menu():
     print("""
